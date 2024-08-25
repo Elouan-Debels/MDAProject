@@ -1260,7 +1260,6 @@ id,reason,province,municipality
 3218.0,missing_coordinates,Hainaut,Fontaine-l Evêque
 3224.0,missing_coordinates,Hainaut,Estinnes
 3225.0,missing_coordinates,Hainaut,Estinnes
-3227.0,missing_coordinates,Hainaut,Le
 3228.0,missing_coordinates,Liège,Ougrée
 3231.0,missing_coordinates,Liège,Grivegnée
 3235.0,missing_coordinates,Hainaut,Mons
@@ -1667,7 +1666,6 @@ id,reason,province,municipality
 5561.0,missing_coordinates,Hainaut,Tournai
 5565.0,missing_coordinates,Hainaut,Donstiennes
 5569.0,missing_coordinates,Hainaut,Mons
-5572.0,missing_coordinates,Hainaut,Châtelet
 5574.0,missing_coordinates,Hainaut,Châtelet
 5580.0,missing_coordinates,Liège,Malmédy
 5584.0,missing_coordinates,,
